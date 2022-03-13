@@ -7,5 +7,5 @@ If length doesn't match or String contains any invalid characters other than p,r
 
 Let's come to the logic of the game:- It get 2 characters in each match and determines who is the winner whether player 1 or player 2.
 And finally all the results of all matches are stored in the array and returend in JSON format.
-
+In additonal we are also maintaing the data of all succesfull matches.
 <b> Some pics are attached for refernce purpose. (postman) <b>
